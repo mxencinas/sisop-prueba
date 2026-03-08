@@ -15,6 +15,10 @@
     {
       "name": "utils",
       "path": "utils"
+    },
+    {
+      "name": "prueba",
+      "path": "prueba"
     }
   ],
   "settings": {
